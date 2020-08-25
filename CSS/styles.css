@@ -1,0 +1,79 @@
+html{
+  background-color: #96ddeb;
+}
+.head{
+  padding: 2% 5% 5% 2%;
+  font-style: oblique;
+  color: #075666;
+  margin-left: 500px;
+}
+
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+.profile_Pic {
+  border-radius: 50%;
+  height: 50%;
+  width: 40%;
+}
+
+.midde_container{
+  margin: 50px auto 100px;
+  font-style: normal;
+  font-size: 20px;
+}
+
+
+.Memory1{
+  width : 50%;
+  margin: 10px auto 50px;
+  text-align: left;
+}
+
+.giphy-embed-book{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+.Memory2{
+  padding-top: 100px;
+  width : 50%;
+  margin: 10px auto 50px;
+  text-align: right;
+  padding-bottom: 100px;
+}
+
+.giphy-embed-story{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+
+.Memory3{
+  padding-top: 100px;
+  width : 50%;
+  margin: 10px auto 50px;
+  text-align: left;
+}
+
+.giphy-embed-pandemic{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+
+
+.bottom-container{
+  background-color: #085261;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom:  50px;
+
+}
